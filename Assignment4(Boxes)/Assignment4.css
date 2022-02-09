@@ -1,0 +1,28 @@
+.container{
+    background-image: url("https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2014_FallP8/Rami_Portfolio_Period8/unit4_css/project2/cssProject2/grid.png");
+    width:950px;
+    height:780px;
+    margin:auto;
+    padding-top: 20px;
+}
+.first{
+    width:940px;
+    height:100px;
+}
+.box{
+    background-color: grey;
+    float:left;
+    opacity: 0.9s;
+}
+.second{
+    width:220px;
+    height:220px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.m1{
+    margin-left: 10px;
+}
+.m2{
+    margin-left: 20px;
+}
