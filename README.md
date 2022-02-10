@@ -13,3 +13,11 @@ This is the main repository for all of the projects done in Front-End.
 | [TinDog](https://github.com/Shraddha8920/Front-end/tree/main/TinDog)                             | [Live Demo](https://shraddha8920.github.io/Front-end/TinDog/tindog.html)               |
 | [Bootstrap UI](https://github.com/Shraddha8920/Front-end/tree/main/UI)                             | [Live Demo](https://shraddha8920.github.io/Front-end/UI/UIAssignment.html)               |
 | [Simple Calculator](https://github.com/Shraddha8920/Front-end/tree/main/Simple%20Calculator)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Simple%20Calculator/SimpleCalculator.html)               |
+| [Calculator](https://github.com/Shraddha8920/Front-end/tree/main/Calculator)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Calculator/calculator.html)               |
+| [Interactive Search](https://github.com/Shraddha8920/Front-end/tree/main/SearchBox)                             | [Live Demo](https://shraddha8920.github.io/Front-end/SearchBox/searchbox.html)               |
+| [Soundbar](https://github.com/Shraddha8920/Front-end/tree/main/Sounds)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Sounds/sounds.html)               |
+| [Progressbar](https://github.com/Shraddha8920/Front-end/tree/main/Progress)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Progress/progress.html)               |
+| [Toggler](https://github.com/Shraddha8920/Front-end/tree/main/Toggle)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Toggle/toggle.html)               |
+| [Color Board](https://github.com/Shraddha8920/Front-end/tree/main/Color-Box)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Color-Box/color-box.html)               |
+| [Quiz Page](https://github.com/Shraddha8920/Front-end/tree/main/Quiz)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Quiz/quiz.html)               |
+| [Running Text](https://github.com/Shraddha8920/Front-end/tree/main/Running%20Text)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Running Text/runningtext.html)               |
