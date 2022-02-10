@@ -20,4 +20,5 @@ This is the main repository for all of the projects done in Front-End.
 | [Toggler](https://github.com/Shraddha8920/Front-end/tree/main/Toggle)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Toggle/toggle.html)               |
 | [Color Board](https://github.com/Shraddha8920/Front-end/tree/main/Color-Box)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Color-Box/color-box.html)               |
 | [Quiz Page](https://github.com/Shraddha8920/Front-end/tree/main/Quiz)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Quiz/quiz.html)               |
-| [Running Text](https://github.com/Shraddha8920/Front-end/tree/main/Running%20Text)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Running Text/runningtext.html)               |
+| [Running Text](https://github.com/Shraddha8920/Front-end/tree/main/Running%20Text)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Running%20Text/runningtext.html)               |
+| [To-do List](https://github.com/Shraddha8920/Front-end/tree/main/to-do%20List)                             | [Live Demo](https://shraddha8920.github.io/Front-end/to-do List/todo-list.html)               |
