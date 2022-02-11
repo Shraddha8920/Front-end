@@ -33,7 +33,7 @@ function getRandomQuote() {
     .then(data => data.content)
 }
 
-async function renderNewQuote() {
+function renderNewQuote() {
   const quote = await getRandomQuote()
   quoteDisplayElement.innerHTML = ''
   quote.split('').forEach(character => {
