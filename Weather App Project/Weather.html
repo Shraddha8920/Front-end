@@ -1,0 +1,29 @@
+<html lang="en">
+    <head>
+    <title>Weather App</title>
+    <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="Weather.css">
+</head>
+
+<body onload="handleOnload()">
+    <div class="search-div" id="search-div">
+        <input type="text" placeholder="Enter City Name" id="search-input" autocomplete="off">
+        <button id="search-button">Search</button>
+    </div>
+
+    <div class="wrapper">
+
+            <div id="location"></div>
+               
+            <div id="temperature">
+                <img id="temperature-icon" src="cloud-sun-solid.svg" alt="" height="100px">
+                <p><span id="temperature-value"></span>
+                <span id="temperature-unit">°C</span></p>
+            </div>
+
+            <div id="climate"></div>
+            <script src="Weather.js"></script>
+    </div>
+
+
+</body></html>
