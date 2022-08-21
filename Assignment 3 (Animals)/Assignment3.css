@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/black-white-watercolor-background_125540-955.jpg?w=2000");
+}
+.container{
+    margin:20px 150px;
+    background-color: rgb(56, 56, 56);
+    border-radius: 50px;
+}
+.heading{
+    color:white;
+    font-size: 3rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+img{
+    height:250px;
+    width:300px;
+    padding: 20px 20px;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+img:hover{
+    opacity: 1;
+}

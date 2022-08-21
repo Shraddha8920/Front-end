@@ -1,0 +1,36 @@
+.container{
+    background-image:url("https://cdn.wallpapersafari.com/44/38/bOYLM5.png");
+    height:780px;
+    width:990px;
+    margin:auto;
+    padding-top:20px;
+}
+.longbox{
+    height:100px;
+    width:860px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.smallbox{
+    height:185px;
+    width:185px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.box{
+    background-color: gray;
+    float:left;
+    opacity:0.8;
+}
+.box:hover{
+    opacity:1;
+}
+#first{
+    margin-left: 70px;
+}
+.ml-10{
+    margin-left: 70px;
+}
+.ml-20{
+    margin-left: 40px;
+}
