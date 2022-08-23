@@ -1,0 +1,144 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
+nav{
+    margin:20px;
+}
+#Head{
+    margin:20px 60px;
+    margin-right: 14em;
+    font-size: 45px;
+}
+a{
+    font-size:17px;
+    padding:30px;
+    text-decoration: none;
+    color:aliceblue;
+}
+.heading img{
+    float:right;
+    margin-top: -100px;
+    padding-right: 250px;
+    width:300px;
+    transform:rotate(25deg);
+}
+.heading{
+    height:500px;
+    background-color: lightcoral;
+    overflow: hidden;
+}
+.heading p{
+    width:600px;
+    margin:40px 70px;
+    font-size: 40px;
+}
+button{
+    padding:10px 20px;
+    margin:50px 30px;
+    border-radius: 5px;
+    border:none;
+}
+.ios,.android{
+    font-size: 20px;
+}
+.ios .fab,.android .fab{
+    padding: 10px;
+    font-size: 20px;
+}
+
+/* objective */
+
+.objective{
+    margin: 100px 190px;
+    display: flex;
+}
+.section{
+    margin:30px;
+    flex:1;
+}
+.section i{
+    font-size: 60px;
+    color:lightcoral;
+    padding-left: 100px;
+}
+.head{
+    padding:20px 0;
+    text-align: center;
+    font-size: 25px;
+}
+.info{
+    text-align: center;
+    font-size: 18px;
+    color: grey;
+    margin:20px 0px;
+}
+
+/* Plan */
+.plan{
+    padding: 40px;
+    padding-left:80px;
+    background-color: lightcoral;
+   }
+   .plan-head{
+    text-align: center;
+    font-size: 2.7rem;
+}
+.plan-info{
+    padding: 30px;
+    padding-left: 23rem;
+    font-size: 20px;
+    color: white;
+}
+.box{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 30px;
+}
+.textbox{
+    margin:30px;
+    text-align: center;
+    border:1px solid white;
+    border-radius: 5px;
+}
+.box-top{
+    background-color: white;
+    border:1px solid white;
+    font-size: 2rem;
+    padding: 20px 0px;
+}
+.box-middle-head{
+    padding: 20px;
+    font-size: 3rem;
+}
+.box-middle{
+    padding: 10px;
+    font-size: 20px;
+    color:white;
+}
+.textbox button{
+    width:150px;
+    font-size: 20px;  
+}
+
+/* footer */
+.footer{
+    margin:5rem 0;
+}
+.footer-head{
+    text-align: center;
+    padding: 20px;
+    font-size: 3rem;
+}
+.icons,.copyright{
+    text-align: center;
+}
+.fa-facebook-f,.fa-twitter,.fa-instagram,.fa-envelope{
+    padding: 10px;
+}
+.copyright{
+    color:gray;
+}
+.copyright .far{
+    padding: 10px;
+}

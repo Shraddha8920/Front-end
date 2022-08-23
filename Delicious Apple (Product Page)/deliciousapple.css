@@ -1,0 +1,94 @@
+*{
+    background-color: rgb(46, 229, 137);
+}
+.container{
+    display: flex;
+    margin: 7rem;
+    margin-left: 20rem;
+    max-width: 700px;
+    border-radius: 5px;
+    background-color: white;
+}
+div,i,img,header,h1,h4,ul,li,button,span{
+    background-color: white;
+}
+
+/* left side */
+.fas,.far{
+    padding:15px;
+    color: rgb(251, 248, 248);
+}
+.fas{
+    float:left;
+}
+.far{
+    float:right;
+}
+.image{
+    width:350px;
+    height:350px;
+    display: flex;
+    flex-direction: column;
+}
+.sub-img{
+    margin: 50px 0 0 0;
+}
+.sub-img img{
+    margin-left: 7px;
+    margin-bottom: 5px;
+    padding: 0px 5px;
+    border:1px solid lightslategrey
+}
+.product,i{
+    background-color: yellowgreen;
+}
+#main-img{
+    width:300px;
+    height: 300px;
+    margin: 10px;
+    background-color: yellowgreen;
+}
+
+/* right side */
+
+.info{
+    margin:20px 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    font-size: 24px;
+    margin: 10px;
+    font-weight: 600;
+    text-align: center;
+    color: darkslategrey;
+}
+.code{
+    font-size: 10px;
+    margin: 20px 5px;
+    color:lightslategray
+}
+.price{
+    color:red;
+    font-size: 15px;
+    margin:15px 0;
+}
+.price span{
+    padding:0px 20px;
+    font-size: 35px;
+}
+.heading{
+    padding:10px 5px;
+    font-weight: 700;
+    color:rgb(105, 105, 105)
+}
+.info .sub-img{
+    margin-top: 10px;
+}
+button{
+    margin-left: 20px;
+    color: white;
+    border:none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    background-color: orangered;
+}
