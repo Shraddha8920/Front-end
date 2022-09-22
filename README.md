@@ -15,4 +15,4 @@ This is the main repository for all of the projects done in Front-End.
 | [Expanding Cards](https://github.com/Shraddha8920/Front-end/tree/main/Expanding%20Cards)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Expanding%20Cards/ExpandingCards.html)               |
 | [iCoder Bootstrap Website](https://github.com/Shraddha8920/Front-end/tree/main/iCoder%20Bootstrap%20Website)                             | [Live Demo](https://shraddha8920.github.io/Front-end/iCoder%20Bootstrap%20Website/home.html)               |
 | [Magic Notes JS Project](https://github.com/Shraddha8920/Front-end/tree/main/Magic%20Notes%20JS%20Project)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Magic%20Notes%20JS%20Project/index.html)               |
-| [Library Book add JS Project](https://github.com/Shraddha8920/Front-end/tree/main/College%20Library%20Website)                             | [Live Demo](https://shraddha8920.github.io/Front-end/College%20Library%20Website/index.html)               |
+
