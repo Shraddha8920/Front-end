@@ -22,3 +22,4 @@ This is the main repository for all of the projects done in Front-End.
 | [Simple Alarm Clock](https://github.com/Shraddha8920/Front-end/tree/main/Simple%20Alarm%20Clock)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Simple%20Alarm%20Clock/index.html)               |
 | [Digital Wall Clock](https://github.com/Shraddha8920/Front-end/tree/main/Wall%20Clock)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Wall%20Clock/index.html)               |
 | [Drag and Drop](https://github.com/Shraddha8920/Front-end/tree/main/Drag%20and%20Drop)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Drag%20and%20Drop/index.html)               |
+| [Calculator](https://github.com/Shraddha8920/Front-end/tree/main/Calculator)                             | [Live Demo](https://shraddha8920.github.io/Front-end/Calculator/index.html)               |
